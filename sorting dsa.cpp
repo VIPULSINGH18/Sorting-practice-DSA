@@ -97,7 +97,7 @@ int main() {
     cout << "Sorted array: ";
     printArray(arr, n);
 
-    return 0;
+Â Â Â Â returnÂ 0;
 }
 }
 
@@ -359,6 +359,9 @@ int main(){
 
 
 /*
+
+
+/* Insertion sort algo
 
 
 #include<iostream>
